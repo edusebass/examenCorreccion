@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3935f0e-3c4e-49c7-b3e4-e0976977a320" name="Changes" comment="1 commit" />
+    <list default="true" id="a3935f0e-3c4e-49c7-b3e4-e0976977a320" name="Changes" comment="main finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RvrSmc6VYhfWMHu7IB38HruCyQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,20 +55,66 @@
       <option name="project" value="LOCAL" />
       <updated>1688141702018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".xml ignore">
+      <created>1688141725793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688141725793</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change pais.java">
+      <created>1688141921688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688141921688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creation class">
+      <created>1688142216327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688142216327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class finished">
+      <created>1688142304641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688142304641</updated>
+    </task>
+    <task id="LOCAL-00006" summary="main finished">
+      <created>1688142567042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688142567042</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
+    <MESSAGE value=".xml ignore" />
+    <MESSAGE value="change pais.java" />
+    <MESSAGE value="creation class" />
+    <MESSAGE value="class finished" />
+    <MESSAGE value="main finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="main finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
+          <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Barrio.java</url>
+          <line>2</line>
+          <properties field="num_hab" class="Barrio" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
