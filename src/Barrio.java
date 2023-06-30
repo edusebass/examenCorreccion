@@ -23,6 +23,9 @@ public class Barrio extends Ciudad{
     }
 
     public void setNum_hab(int num_hab) {
+        if (num_hab < 0) {
+            throw new IllegalArgumentException("El valor no puede ser negativo.");
+        }
         this.num_hab = num_hab;
     }
 
