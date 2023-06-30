@@ -3,7 +3,7 @@ public class Pais {
     private String continente_pais;
 
     // constructor
-    public Barrio(String nom_pais, String continente_pais) {
+    public Pais(String nom_pais, String continente_pais) {
         this.nom_pais = nom_pais;
         this.continente_pais = continente_pais;
     }
@@ -30,4 +30,4 @@ public class Pais {
         System.out.println("Soy un pais");
     }
 }
-}
+
