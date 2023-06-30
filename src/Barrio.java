@@ -8,4 +8,26 @@ public class Barrio extends Ciudad{
         this.nomb_ba = nomb_ba;
         this.num_hab = num_hab;
     }
+
+    //getters and setters
+    public String getNomb_ba() {
+        return nomb_ba;
+    }
+
+    public void setNomb_ba(String nomb_ba) {
+        this.nomb_ba = nomb_ba;
+    }
+
+    public int getNum_hab() {
+        return num_hab;
+    }
+
+    public void setNum_hab(int num_hab) {
+        this.num_hab = num_hab;
+    }
+
+    //metodos
+    public void barriom() {
+        System.out.println("Soy un barrio");
+    }
 }
